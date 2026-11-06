@@ -20,7 +20,7 @@ export const profile = {
   resumeUrl: '#', // replace with your resume PDF link
   social: {
     email: 'rahulvoruganti73@gmail.com',
-    github: 'https://github.com/rahulvoruganti',
+    github: 'https://github.com/Rahhul-73',
     linkedin: 'https://www.linkedin.com/in/rahul-voruganti-b10257361/',
   },
   skills: [
@@ -44,7 +44,7 @@ export const profile = {
         'A cinematic personal portfolio with glassmorphism, scroll-driven animations, and a single config file for all content — built to stand out while staying fast.',
       tags: ['React', 'TypeScript', 'Tailwind', 'Framer Motion'],
       status: 'live' as const,
-      link: '#',
+      link: 'https://portfolio73.vercel.app/',
     },
     {
       id: '02',
